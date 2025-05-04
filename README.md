@@ -1,6 +1,6 @@
 # Gasket-Price-Prediction-
 Predicting gasket prices using XGboost regressor
-# 🔩 Gasket Price Prediction
+#  Gasket Price Prediction
 
 A machine learning project that predicts the price of gaskets using supervised learning techniques. This project explores various regression algorithms, model evaluation metrics, and feature engineering methods to deliver accurate price predictions.
 
